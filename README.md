@@ -11,7 +11,7 @@ To cite our paper, please use the following BibTeX entry:
 ```
 @inproceedings{bresler2018sparse,
   title = {Sparse PCA from Sparse Linear Regression},
-  author = {Guy Bresler and Sung Min Park, and Madalina Persu},
+  author = {Guy Bresler and Sung Min Park and Madalina Persu},
   booktitle = {NeurIPS},
   year = {2018}
 }
